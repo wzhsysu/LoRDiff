@@ -153,4 +153,4 @@ dependencies:
       - xformers==0.0.20
       - yapf==0.43.0
       - zipp==3.21.0
-prefix: /home/wangzhihua/anaconda3/envs/PiSA-SR
+
