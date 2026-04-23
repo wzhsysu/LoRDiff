@@ -17,3 +17,24 @@ This approach allows the model to capture complex degradations and produce visua
 
 ## Checkpoints
 The weight file can be downloaded from the following link：[Google Drive](https://drive.google.com/drive/folders/1IWqACBZgauw80d7HpuFMbMTRr2fo9OQm?usp=sharing)
+
+## 🚀 Inference
+To enhance low-light images using the pre-trained model, run the following command:
+```
+
+```
+
+
+## 📝 Citation
+If you find this work helpful for your research, please consider citing our paper:
+```
+@article{wang2026robust,
+  title={Robust low-light image enhancement in the wild via data synthesis and generative diffusion prior},
+  author={Wang, Zhihua and Lin, Qinghua and Liu, Feiyang and Zhang, Weixia and Zhou, Wei},
+  journal={Pattern Recognition},
+  pages={113336},
+  year={2026},
+  publisher={Elsevier}
+}
+```
+
