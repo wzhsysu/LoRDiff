@@ -21,7 +21,7 @@ The weight file can be downloaded from the following link：[Google Drive](https
 ## 🚀 Inference
 To enhance low-light images using the pre-trained model, run the following command:
 ```
-
+python test_pisasr.py
 ```
 
 
